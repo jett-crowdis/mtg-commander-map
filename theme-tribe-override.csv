@@ -1,0 +1,263 @@
+﻿category,internal_slug,name,image,edhrec_slug
+themeID,ad-nauseam,,,ad-nauseam
+themeID,anthems,,,anthems
+themeID,aristocrats,,,aristocrats
+themeID,artifacts,,Darksteel Forge,artifacts
+themeID,auras,,,auras
+themeID,big-mana,Big Mana,Ruinous Ultimatum,big-mana
+themeID,blink,,,blink
+themeID,bounce,,Whitemane Lion,bounce
+themeID,burn,,,burn
+themeID,cantrips,,Brainstorm,cantrips
+themeID,cascade,,,cascade
+themeID,chaos,,,chaos
+themeID,cheerios,,Paradoxical Outcome,cheerios
+themeID,clones,,,clones
+themeID,clues,,,clues
+themeID,convoke,,March of the Multitudes,convoke
+themeID,counterspells,,Counterspell,counterspells
+themeID,curses,,,curses
+themeID,cycling,,,cycling
+themeID,deathtouch,,,deathtouch
+themeID,defender,,,defender
+themeID,devotion,,Altar of the Pantheon,devotion
+themeID,discard,,Waste Not,discard
+themeID,draw,,Body of Knowledge,draw
+themeID,dredge,,Golgari Grave-Troll,dredge
+themeID,eldrazi-tokens,,,eldrazi-tokens
+themeID,elemental-tokens,,,elemental-tokens
+themeID,elf-tokens,,,elf-tokens
+themeID,enchantments,,,enchantments
+themeID,energy-counters,,,energy-counters
+themeID,enrage,,Silverclad Ferocidons,enrage
+themeID,equipment,,,equipment
+themeID,exalted,,Finest Hour,exalted
+themeID,exile,,,exile
+themeID,extra-combats,,,extra-combats
+themeID,extra-turns,,Time Warp,extra-turns
+themeID,familiars,Commander Tribal,Loyal Drake,familiars
+themeID,fight,,Pit Fight,fight
+themeID,flash,,,flash
+themeID,flying,,Favorable Winds,flying
+themeID,forced-combat,,Disrupt Decorum,forced-combat
+themeID,foretell,,,foretell
+themeID,goblin-tokens,,,goblin-tokens
+themeID,golem-tokens,,,golem-tokens
+themeID,graveyard,,Faithless Looting,graveyard
+themeID,group-hug,,,group-hug
+themeID,group-slug,,,group-slug
+themeID,gyruda-companion,Gyruda Companion,"Gyruda, Doom of Depths",gyruda-companion
+themeID,hatebears,,,hatebears
+themeID,historic,,,historic
+themeID,human-tokens,,Thraben Doomsayer,human-tokens
+themeID,infect,,Blighted Agent,infect
+themeID,insect-tokens,,Hornet Queen,insect-tokens
+themeID,jegantha-companion,Jegantha Companion,"Jegantha, the Wellspring",jegantha-companion
+themeID,kaheera-companion,Kaheer Companion,"Kaheera, the Orphanguard",kaheera-companion
+themeID,keruga-companion,Keruga Companion,"Keruga, the Macrosage",keruga-companion
+themeID,keywords,,"Odric, Lunarch Marshal",keywords
+themeID,knight-tokens,,,knight-tokens
+themeID,land-destruction,,Armageddon,land-destruction
+themeID,landfall,,,landfall
+themeID,lands,,,lands
+themeID,legends,,Primevals' Glorious Rebirth,legends
+themeID,lifegain,,Soul Warden,lifegain
+themeID,lurrus-companion,Lurrus Companion,Lurrus of the Dream-Den,lurrus-companion
+themeID,m1-m1-counters,-1/-1 Counters,,m1-m1-counters
+themeID,madness,,,madness
+themeID,mecha-tokens,,Retrofitter Foundry,mecha-tokens
+themeID,mill,,Grindstone,mill
+themeID,monarch,,,monarch
+themeID,morph,,Secret Plans,morph
+themeID,mutate,,,mutate
+themeID,ninjutsu,,Fallen Shinobi,ninjutsu
+themeID,obosh-companion,Obosh Companion,"Obosh, the Preypiercer",obosh-companion
+themeID,p1-p1-counters,+1/+1 Counters,Corpsejack Menace,p1-p1-counters
+themeID,party,,Spoils of Adventure,party
+themeID,persistent-petitioners,,,persistent-petitioners
+themeID,pillow-fort,,,pillow-fort
+themeID,pingers,,,pingers
+themeID,planeswalkers,,Oath of Teferi,planeswalkers
+themeID,pod,Birthing Pod,Birthing Pod,pod
+themeID,politics,,Ballot Broker,politics
+themeID,polymorph,,,polymorph
+themeID,populate,,Growing Ranks,populate
+themeID,power,,,power
+themeID,primal-surge,,,primal-surge
+themeID,prowess,,Monastery Mentor,prowess
+themeID,ramp,,Rampant Growth,ramp
+themeID,rat-colony,,,rat-colony
+themeID,reanimate,,Reanimate,reanimate
+themeID,relentless-rats,,,relentless-rats
+themeID,royalty,,Vampire Sovereign,royalty
+themeID,sacrifice,,Mayhem Devil,sacrifice
+themeID,sagas,,,sagas
+themeID,saproling-tokens,,Tendershoot Dryad,saproling-tokens
+themeID,sea-creatures,,Spawning Kraken,sea-creatures
+themeID,self-mill,Self-Mill,Grisly Salvage,self-mill
+themeID,shadowborn-apostles,,,shadowborn-apostles
+themeID,snow,,Dead of Winter,snow
+themeID,soldier-tokens,,,soldier-tokens
+themeID,spell-copy,Spell Copying,Fork,spell-copy
+themeID,spellslinger,,Goblin Electromancer,spellslinger
+themeID,spirit-tokens,,,spirit-tokens
+themeID,stax,,Sphere of Resistance,stax
+themeID,stompy,,,stompy
+themeID,storm,,Underworld Breach,storm
+themeID,sunforger,,,sunforger
+themeID,theft,,Act of Treason,theft
+themeID,thopter-tokens,,,thopter-tokens
+themeID,tokens,,Annointed Procession,tokens
+themeID,topdeck,,Sensei's Divining Top,topdeck
+themeID,toughness,,,toughness
+themeID,treasure,,Revel in Riches,treasure
+themeID,umori-companion,Umori Companion,"Umori, the Collector",umori-companion
+themeID,unnatural,Artifacts and Enchantments,Mirrormade,unnatural
+themeID,vehicles,,,vehicles
+themeID,virus,Mutate + Infect,Plague Stinger,virus
+themeID,voltron,,,voltron
+themeID,warrior-tokens,,Decorated Champion,warrior-tokens
+themeID,wheels,,Wheel of Fortune,wheels
+themeID,wolf-tokens,,Wolfbriar Elemental,wolf-tokens
+themeID,wraths,,Wrath of God,wraths
+themeID,x-spells,,,x-spells
+themeID,zirda-companion,Zirda Companion,"Zirda, the Dawnwaker",zirda-companion
+themeID,zombie-tokens,,Diregraf Colossus,zombie-tokens
+tribeID,Advisor,,Trusted Advisor,advisors
+tribeID,Aetherborn,Aetherborn,Gifted Aetherborn,aetherborns
+tribeID,Ally,Allies,,allies
+tribeID,Angel,,,angels
+tribeID,Ape,,Kird Ape,apes
+tribeID,Archer,,,archers
+tribeID,Archon,,,archons
+tribeID,Artificer,,Vedalken Engineer,artificers
+tribeID,Assassin,,,assassins
+tribeID,Atog,,Atog,atogs
+tribeID,Avatar,,Avatar of Woe,avatars
+tribeID,Barbarian,,,barbarians
+tribeID,Bat,,Blind Hunter,bats
+tribeID,Bear,,,bears
+tribeID,Beast,,,beasts
+tribeID,Berserker,,Fearless Liberator,berserkers
+tribeID,Bird,,Empyrean Eagle,birds
+tribeID,Boar,,Nessian Boar,boars
+tribeID,Cat,,,cats
+tribeID,Centaur,,,centaurs
+tribeID,Cephalid,,,cephalids
+tribeID,Chimera,,Coastline Chimera,
+tribeID,Cleric,,Edgewalker,clerics
+tribeID,Construct,,Myriad Construct,constructs
+tribeID,Crab,,Ancient Crab,crabs
+tribeID,Crocodile,,Emperor Crocodile,crocodiles
+tribeID,Cyclops,Cyclopes,Cyclops Gladiator,
+tribeID,Demon,,Rakdos the Defiler,demons
+tribeID,Devil,,,devils
+tribeID,Dinosaur,,,dinosaurs
+tribeID,Djinn,,,djinns
+tribeID,Dog,,,dogs
+tribeID,Dragon,,"Atarka, World Render",dragons
+tribeID,Drake,,,drakes
+tribeID,Druid,,,druids
+tribeID,Dryad,,,dryads
+tribeID,Dwarf,,,dwarves
+tribeID,Efreet,,Efreet Flamepainter,
+tribeID,Elder,,,elders
+tribeID,Eldrazi,Eldrazi,,eldrazi
+tribeID,Elemental,,,elementals
+tribeID,Elephant,,Aggressive Mammoth,elephants
+tribeID,Elf,,,elves
+tribeID,Elk,Elk,,elks
+tribeID,Faerie,,,faeries
+tribeID,Fish,,Fleet Swallower,fish
+tribeID,Fox,,,foxes
+tribeID,Frog,,,frogs
+tribeID,Fungus,Fungi,Sporesower Thallid,fungi
+tribeID,Gargoyle,,,gargoyles
+tribeID,Giant,,,giants
+tribeID,Goat,,Pathbreaker Ibex,
+tribeID,Goblin,,,goblins
+tribeID,God,,"Esika, God of the Tree",gods
+tribeID,Golem,,Blade Splicer,golems
+tribeID,Gorgon,,,gorgons
+tribeID,Griffin,,Armored Griffin,griffins
+tribeID,Homunculus,Homunculi,Furtive Homunculus,homunculuss
+tribeID,Horror,,Creakwood Liege,horrors
+tribeID,Horse,,Crested Sunmare,horses
+tribeID,Human,,,humans
+tribeID,Hydra,,,hydras
+tribeID,Illusion,,Lord of the Unreal,illusions
+tribeID,Imp,,,imps
+tribeID,Incarnation,,,
+tribeID,Insect,,Hornet Nest,insects
+tribeID,Jackal,,Jackal Pup,
+tribeID,Kavu,Kavu,,kavus
+tribeID,Kithkin,Kithkin,,kithkin
+tribeID,Knight,,,knights
+tribeID,Kor,Kor,,kors
+tribeID,Kraken,,Hullbreaker Horror,krakens
+tribeID,Leviathan,,,
+tribeID,Licid,,Dominating Licid,
+tribeID,Lizard,,Spitfire Lagac,lizards
+tribeID,Mercenary,Mercenaries,,mercenarys
+tribeID,Merfolk,Merfolk,,merfolk
+tribeID,Minion,,,minions
+tribeID,Minotaur,,,minotaurs
+tribeID,Monk,,,monks
+tribeID,Moonfolk,Moonfolk,,moonfolk
+tribeID,Mutant,,Aeromunculus,mutants
+tribeID,Myr,Myr,Myr Battlesphere,myr
+tribeID,Naga,Naga,,nagas
+tribeID,Nightmare,,,nightmares
+tribeID,Ninja,,,ninjas
+tribeID,Noble,,Beloved Princess,nobles
+tribeID,Nomad,,,
+tribeID,Nymph,,,
+tribeID,Ogre,,,ogres
+tribeID,Ooze,,,oozes
+tribeID,Orc,,Brutal Hordechief,orcs
+tribeID,Ox,,Yoked Ox,
+tribeID,Pegasus,,Cavalry Pegasus,
+tribeID,Phoenix,,,phoenixs
+tribeID,Phyrexian,,,phyrexians
+tribeID,Pirate,,Hostage Taker,pirates
+tribeID,Plant,,Sprouting Phytohydra,plants
+tribeID,Ranger,,Ranger of Eos,
+tribeID,Rat,,Burglar Rat,rats
+tribeID,Rebel,,"Lin Sivvi, Defiant Hero",rebels
+tribeID,Rhino,,,rhinos
+tribeID,Rogue,,,rogues
+tribeID,Samurai,Samurai,,samurai
+tribeID,Satyr,,,satyrs
+tribeID,Scarecrow,,Field Creeper,scarecrows
+tribeID,Scout,,,scouts
+tribeID,Serpent,,Harbor Serpent,serpents
+tribeID,Shade,,Dread Shade,shades
+tribeID,Shaman,,Rage Forger,shamans
+tribeID,Shapeshifter,,,shapeshifters
+tribeID,Siren,,Hypnotic Siren,
+tribeID,Skeleton,,,skeletons
+tribeID,Sliver,,,slivers
+tribeID,Snake,,Hexdrinker,snakes
+tribeID,Soldier,,,soldiers
+tribeID,Specter,,Specter,specters
+tribeID,Spellshaper,,Dreamscape Artist,spellshapers
+tribeID,Sphinx,,,sphinxes
+tribeID,Spider,,Giant Spider,spiders
+tribeID,Spirit,,,spirits
+tribeID,Thopter,,Ornithopter,
+tribeID,Thrull,,Treasury Thrull,thrulls
+tribeID,Treefolk,Treefolk,Timber Protector,treefolk
+tribeID,Troll,,Cudgel Troll,trolls
+tribeID,Turtle,,Meandering Towershell,turtles
+tribeID,Unicorn,,Good-Fortune Unicorn,unicorns
+tribeID,Vampire,,,vampires
+tribeID,Vedalken,Vedalken,,
+tribeID,Viashino,Viashino,Viashino Pyromancer,
+tribeID,Wall,,,walls
+tribeID,Warlock,,Callous Bloodmage,warlocks
+tribeID,Warrior,,,warriors
+tribeID,Werewolf,,Immerwolf,werewolves
+tribeID,Wizard,,,wizards
+tribeID,Wolf,,,wolves
+tribeID,Wurm,,,wurms
+tribeID,Zombie,,Diregraf Captain,zombies
